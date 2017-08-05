@@ -1,0 +1,6 @@
+一.音频特征学习出来后进行可视化,然后聚类,看看学习出来的特征是否有利于分类.
+参考论文:L.J.P. van der Maaten and G.E. Hinton. Visualizing high-dimensional data using t-sne. Journal of Machine Learning Research, 9:2579–2605, 2008.
+
+二.<Phoneme recognition using time-delay neural networks>
+(1)The particular choice of 3 frames (30 ms) was motivated by earlier studies [26]-[29] that suggest that a 30 ms window might be sufficient to represent low level acoustic-phonetic events for stop consonant recognition.   
+(2)The choice of a larger 5 frame window in this layer was motivated by the intuition that higher level units should learn to make decisions over a wider range in time based on more local abstractions at lower levels.
