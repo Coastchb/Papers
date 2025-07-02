@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="design-iconfont">
+  <defs>
+    <linearGradient x1="50%" y1="-50.1216691%" x2="50%" y2="73.5128102%" id="fl5eb1pam__bi7vhumzma">
+      <stop stop-color="#A9C2FF" stop-opacity=".36276224" offset="0%"/>
+      <stop stop-color="#EEF3FF" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="57.9349442%" y1="41.286989%" x2="25.1701151%" y2="90.8495757%" id="fl5eb1pam__ytiyo7dilb">
+      <stop stop-color="#A9C2FF" stop-opacity=".53277972" offset="0%"/>
+      <stop stop-color="#E9EFFF" offset="100%"/>
+    </linearGradient>
+    <linearGradient x1="44.8759559%" y1="35.911702%" x2="79.2075475%" y2="80.1156542%" id="fl5eb1pam__7d89lvtbbc">
+      <stop stop-color="#A9C2FF" offset="0%"/>
+      <stop stop-color="#E9EFFF" offset="100%"/>
+    </linearGradient>
+  </defs>
+  <g fill-rule="nonzero" fill="none">
+    <path fill="url(#fl5eb1pam__bi7vhumzma)" d="M8.01999506 0L14.7599769 2.22857455 8 4.67601701 1.30003021 2.24846766z"/>
+    <path fill="url(#fl5eb1pam__ytiyo7dilb)" d="M0.0000219725892 2.68622533L0.0800241698 2.66633222 7.60001099 5.37245065 7.60001099 15.5801069 0 13.0729633 0 2.68622533z"/>
+    <path fill="url(#fl5eb1pam__7d89lvtbbc)" d="M16 13.0729633L8.39998901 15.6 8.39998901 5.37245065 15.979983 2.64643911 15.999978 2.64643911 15.999978 13.0729633z"/>
+  </g>
+</svg>
